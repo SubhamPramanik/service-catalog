@@ -165,6 +165,7 @@ The API does not support real-time updates to the data. Responses are generated 
 
 - **Authentication and Security:** Adding authentication for secure API access. This can done through by adding another middleware in the code.
 - **Advanced Filtering and Sorting:** Extend the filtering capabilities to include more fields and support sorting to enhance user experience.
+- **Testing:** Some of the high-level unit test cases have been mentioned to the handler files. Eventually we should have end to end tests and integration test setup, where the service catalog pulls data from various other systems.
 
 ## Contributing
 
